@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$bp-dark: #333333;
+$bp-highlight: #fedb43;
+
+body {
+  color:$bp-dark;
+}

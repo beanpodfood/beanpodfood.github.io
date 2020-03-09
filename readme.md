@@ -7,3 +7,5 @@
 1. add images (dynamic)
 1. add content to footer or remove
 1. links to social accounts?
+1. logo seems fuzzy
+1. use brand fonts?

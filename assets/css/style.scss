@@ -16,3 +16,14 @@ header p {
   letter-spacing: 1px;
   margin-top: .5em;
 }
+header .nav {
+  list-style: none;
+}
+
+header .nav li {
+  display: block;
+  width: 100%;
+  text-align: right;
+  border: none;
+  color:$bp-highlight;
+}

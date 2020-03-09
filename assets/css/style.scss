@@ -10,6 +10,10 @@ body {
   color:$bp-dark;
 }
 
+a {
+  color: $bp-highlight;
+}
+
 header p {
   color: $bp-dark;
   text-transform: lowercase;
@@ -26,5 +30,4 @@ header #nav li {
   width: 100%;
   text-align: right;
   border: none;
-  color:$bp-highlight;
 }

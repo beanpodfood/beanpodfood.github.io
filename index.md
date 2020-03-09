@@ -4,6 +4,8 @@ title: Bean Pod Natural Foods
 
 # Menu
 
+![image placeholder](https://via.placeholder.com/500x100 "Placeholder image title")
+
 Cras nec congue odio. Sed hendrerit tortor vel orci tristique, sit amet ultrices massa lacinia. Integer mattis, turpis quis venenatis tincidunt, tellus risus tincidunt nisl, ut ullamcorper odio leo ac magna. Aenean volutpat congue nisl, id aliquet urna. Fusce sit amet est elit.
 
 ## Week of 2020-03-17
@@ -15,13 +17,21 @@ Cras nec congue odio. Sed hendrerit tortor vel orci tristique, sit amet ultrices
 
 # Dinner Events
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et dui et nulla egestas ullamcorper. Praesent eu bibendum justo. Donec justo lorem, bibendum a suscipit ac, tristique in lectus. Morbi eget accumsan turpis, in interdum leo. Phasellus eget quam tellus. Sed tempor arcu id purus consectetur, ut auctor tellus imperdiet. Nunc quam urna, tristique vitae dignissim sit amet, maximus sed nulla. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et dui et nulla egestas ullamcorper. Praesent eu bibendum justo. Donec justo lorem, bibendum a suscipit ac, tristique in lectus. Morbi eget accumsan turpis, in interdum leo. Phasellus eget quam tellus. Sed tempor arcu id purus consectetur, ut auctor tellus imperdiet. Nunc quam urna, tristique vitae dignissim sit amet, maximus sed nulla.
+
+![image placeholder](https://via.placeholder.com/150 "Placeholder image title")
+![image placeholder](https://via.placeholder.com/150 "Placeholder image title")
+![image placeholder](https://via.placeholder.com/150 "Placeholder image title")
+maybe this could be a carousel of images
+
 
 Suspendisse iaculis convallis dictum. Aliquam justo eros, pharetra vel magna quis, posuere feugiat diam. Etiam eu nunc nec elit lacinia congue sit amet non est. Nunc sed velit nec metus euismod suscipit a ac dui. Nunc tempus suscipit maximus. Ut condimentum a massa eu pellentesque. Ut ac arcu id ex congue vulputate vel et quam. 
 
 Nullam aliquam lectus mi. Nam magna nulla, tristique et molestie mattis, faucibus at justo. Curabitur aliquet ac massa vel ullamcorper. In laoreet lorem id nunc accumsan, pretium lacinia nunc efficitur. Curabitur sagittis consectetur enim, non efficitur ante dictum sed. Cras et nibh vel justo eleifend venenatis ornare porta libero. Nulla luctus et orci a efficitur.
 
 # About
+
+![image placeholder](https://via.placeholder.com/500x300 "Placeholder image title")
 
 > Nulla aliquet quam justo, gravida interdum velit scelerisque aliquam. Donec suscipit mi eget lorem varius dignissim. Pellentesque id condimentum neque. 
 

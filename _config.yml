@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 logo: /images/WEB/logo_wide_270w.jpg
 title: Bean Pod Natural Foods
 description: International flavors with local soul
-github.is_project_page: false
+show_github_link: false

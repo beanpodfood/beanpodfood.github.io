@@ -4,14 +4,20 @@
 @import "{{ site.theme }}";
 
 $bp-dark: #333333;
-$bp-highlight: #fedb43;
+$bp-highlightA: hsla(49, 70%, 63%, 1);
+$bp-highlightB: hsla(49, 99%, 63%, 1);
 
 body {
   color:$bp-dark;
 }
 
+a:hover {
+  color: $bp-highlightB;
+}
+
 a {
-  color: $bp-highlight;
+  font-weight: bold;
+  color: $bp-highlightA;
 }
 
 header p {

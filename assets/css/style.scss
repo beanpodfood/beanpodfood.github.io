@@ -9,3 +9,10 @@ $bp-highlight: #fedb43;
 body {
   color:$bp-dark;
 }
+
+header p {
+  color: $bp-dark;
+  text-transform: lowercase;
+  letter-spacing: 1px;
+  margin-top: .5em;
+}
